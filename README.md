@@ -12,3 +12,10 @@ this is my first change
 **List**
 
 -Item 1
+- Item 2
+  -sub Item 1
+  -sub Item 2
+
+**Images**
+**Remote Images**
+![an image of a cat](http://placekitten.com/200/300)
